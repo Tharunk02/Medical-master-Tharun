@@ -89,5 +89,5 @@ Medical hospital management system project is developed by 'JAVA' at Backend and
 
 ![Screenshot (96)](https://github.com/Thenaveen-hub/Medical/assets/140473308/461cd4be-60fb-482a-9e5a-cc33112de5dd)
 
-_IF Any Queries Mail me ! @ hellonaveen21@gmail.com_
+_IF Any Queries Mail me ! @ tharun22k02@gmail.com_
 ### Thank You !
